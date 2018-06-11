@@ -1,4 +1,4 @@
-This was created for practice and because I led the Batch funcionality of Drupal.
+This was created for practice and because I liked the Batch funcionality of Drupal.
 It is not yet done, since it need to be a little more adaptible, but this is the basic version.
 
 **WALKTHROUGH**
